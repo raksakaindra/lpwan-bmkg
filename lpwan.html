@@ -1,0 +1,167 @@
+<html>
+  <head>  
+    <title>LPWAN BMKG</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="LPWAN BMKG">
+    <meta property="og:image" content="http://perekayasa.com/karhutla/img/splash.jpg">
+    <meta property="og:description" content="Portal informasi LPWAN yang dikembangkan oleh Perekayasa BMKG">
+    <meta property="og:url" content="https://www.bmkg.go.id/">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@infoBMKG">
+    <meta name="twitter:creator" content="@infoBMKG">
+    <meta name="twitter:title" content="LPWAN BMKG">
+    <meta name="twitter:description" content="Portal informasi LPWAN yang dikembangkan oleh Perekayasa BMKG">
+    <meta name="twitter:image" content="http://perekayasa.com/karhutla/img/splash.jpg">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+  crossorigin=""/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <div id="container">
+      <div id="menu">
+        <ul id="slide-out" class="side-nav fixed">
+          <li class="head-menu"><span class="logo little"></span>LPWAN BMKG</li>
+          <li class="overlay-menu"><a id="all" href="lpwan.html"><span class="saka">Semua</span></a></li>
+          <li class="overlay-menu"><a id="arg" href="arg.html"><span class="saka">ARG <small>(599)</small></span></a></li>
+          <li class="overlay-menu"><a id="aws" href="aws.html"><span class="saka">AWS <small>(396)</small></span></a></li>
+          <li class="overlay-menu"><a id="aaws" href="aaws.html"><span class="saka">AAWS <small>(84)</small></span></a></li>
+          <li class="footer-menu">&#169; 2020 &mdash; Perekayasa Pusjarkom BMKG</li>
+        </ul>
+      </div>
+
+      <div id="content">
+        <div class="head">
+          <a href="#" data-activates="slide-out" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
+          <h1><span class="logo"></span>LPWAN BMKG</h1>
+        </div>
+        
+        <div id="maplabel">LPWAN BMKG</div>
+        <div id="map"></div>
+      </div>
+    </div>
+    
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+  crossorigin=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
+    <script>
+      // side navigation
+      $('.button-collapse').sideNav({
+          menuWidth: 300, // Default is 300
+          edge: 'left', // Choose the horizontal origin
+          closeOnClick: false, // Closes side-nav on <a> clicks, useful for Angular/Meteor
+          draggable: true // Choose whether you can drag to open on touch screens,
+        }
+      );
+
+      // center of the map
+      var basemap = 'https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw',
+      osm = L.tileLayer(basemap, {maxZoom: 18});
+      var map = new L.Map('map').setView([0, 120], 5);
+      map.addLayer(osm);
+
+      // marker VSAT
+      var icon_vsat_cband = L.icon({
+        iconUrl: 'vsat.svg',
+        iconSize: [30, 37],
+        iconAnchor: [9, 37],
+        popupAnchor: [0, -35]
+      });
+
+      var icon_ARG = L.icon({
+        iconUrl: 'arg.png',
+        iconSize: [20, 20],
+        iconAnchor: [10, 10],
+        popupAnchor: [0, -20]
+      });
+
+      var icon_AWS = L.icon({
+        iconUrl: 'aws.png',
+        iconSize: [20, 20],
+        iconAnchor: [10, 10],
+        popupAnchor: [0, -20]
+      });
+
+      var icon_AAWS = L.icon({
+        iconUrl: 'aaws.png',
+        iconSize: [20, 20],
+        iconAnchor: [10, 10],
+        popupAnchor: [0, -20]
+      });
+
+      // UPT
+      // fetch("upt.json")
+      // .then(function(response) {
+      //   return response.json();
+      // })
+      // .then(function(data) {
+      //   //console.log(data[0]);
+      //   for (var i = 0; i < data.length; i++) {
+      //     var lat = data[i]["2"];
+      //     var lon = data[i]["3"];
+      //     L.marker([lat,lon]).bindPopup('<p>'+data[i]["1"]+'</p>').addTo(map);
+
+      //     L.circle([lat,lon], {
+      //       weight: 2,
+      //       color: "#01d743",
+      //       fillColor: "#01d743",
+      //       fillOpacity: 0.5,
+      //       radius: 5000
+      //     }).addTo(map);
+      //   }
+      // });
+
+      // VSAT
+      fetch("vsat.json")
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data1) {
+        //console.log(data1[0]);
+        for (var i = 0; i < data1.length; i++) {
+          var lat1 = data1[i]["1"];
+          var lon1 = data1[i]["2"];
+          L.marker([lat1,lon1], {icon: icon_vsat_cband}).bindPopup('<p>'+data1[i]["0"]+'</p>').addTo(map);
+
+          L.circle([lat1,lon1], {
+            weight: 2,
+            color: "#01d743",
+            fillColor: "#01d743",
+            fillOpacity: 0.5,
+            radius: 20000
+          }).addTo(map);
+        }
+      });
+
+      // AWS, ARG, AAWS
+      fetch("station.json")
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data2) {
+        //console.log(data2);
+        for (var i = 0; i < data2.length; i++) {
+          var lat2 = data2[i].lat;
+          var lon2 = data2[i].lng;
+          if (data2[i].type == 'ARG') {
+            L.marker([lat2,lon2], {icon: icon_ARG}).bindPopup('<p>'+data2[i].name_station+'</p>').addTo(map);
+          } else if (data2[i].type == 'AWS') {
+            L.marker([lat2,lon2], {icon: icon_AWS}).bindPopup('<p>'+data2[i].name_station+'</p>').addTo(map);
+          } else if (data2[i].type == 'AAWS') {
+            L.marker([lat2,lon2], {icon: icon_AAWS}).bindPopup('<p>'+data2[i].name_station+'</p>').addTo(map);
+          } 
+        }
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,1442 @@
+[
+   [
+      "224",
+      "Stasiun Meteorologi Ahmad Yani",
+      -6.97683,
+      110.3778,
+      "meteo",
+      "96839"
+   ],
+   [
+      "225",
+      "Stasiun Meteorologi Amahai",
+      -3.3464,
+      128.9284,
+      "meteo",
+      "97722"
+   ],
+   [
+      "226",
+      "Stasiun Meteorologi Andi Jemma Luwu Utara",
+      -2.55472,
+      120.32422,
+      "meteo",
+      "97126"
+   ],
+   [
+      "227",
+      "Stasiun Meteorologi Bandaneira",
+      -4.52338,
+      129.9043,
+      "meteo",
+      "97790"
+   ],
+   [
+      "228",
+      "Stasiun Meteorologi Bandara Internasional Lombok",
+      -8.75277,
+      116.24982,
+      "meteo",
+      "97240"
+   ],
+   [
+      "229",
+      "Stasiun Meteorologi Banyuwangi",
+      -8.13,
+      114.23,
+      "meteo",
+      "96987"
+   ],
+   [
+      "230",
+      "Stasiun Meteorologi Beringin Barito Utara",
+      -0.56,
+      114.53,
+      "meteo",
+      "96595"
+   ],
+   [
+      "231",
+      "Stasiun Meteorologi Beto Ambari",
+      -5.47,
+      122.62,
+      "meteo",
+      "97192"
+   ],
+   [
+      "232",
+      "Stasiun Meteorologi Binaka - Gunungsitoli",
+      1.1649,
+      97.7036,
+      "meteo",
+      "96075"
+   ],
+   [
+      "233",
+      "Stasiun Meteorologi Budiarto",
+      -6.2867,
+      106.56389,
+      "meteo",
+      "96739"
+   ],
+   [
+      "234",
+      "Stasiun Meteorologi Cilacap",
+      -7.7189,
+      109.0149,
+      "meteo",
+      "96805"
+   ],
+   [
+      "235",
+      "Stasiun Meteorologi Citeko",
+      -6.7,
+      106.85,
+      "meteo",
+      "96751"
+   ],
+   [
+      "236",
+      "Stasiun Meteorologi Cut Bau Maimun Saleh",
+      5.87655,
+      95.33785,
+      "meteo",
+      "96001"
+   ],
+   [
+      "237",
+      "Stasiun Meteorologi Dabo Singkep",
+      -0.48,
+      104.58,
+      "meteo",
+      "96179"
+   ],
+   [
+      "238",
+      "Stasiun Meteorologi David Constatijn Saudale",
+      -10.76662,
+      123.07395,
+      "meteo",
+      "97378"
+   ],
+   [
+      "239",
+      "Stasiun Meteorologi Depati Amir Pangkalpinang",
+      -2.1630515,
+      106.1369806,
+      "meteo",
+      "96237"
+   ],
+   [
+      "240",
+      "Stasiun Meteorologi Depati Parbo",
+      -2.083,
+      101.45,
+      "meteo",
+      "96207"
+   ],
+   [
+      "241",
+      "Stasiun Meteorologi Djalaluddin",
+      0.6385,
+      122.8525,
+      "meteo",
+      "97048"
+   ],
+   [
+      "242",
+      "Stasiun Meteorologi Dok II Jayapura",
+      -2.53,
+      140.72,
+      "meteo",
+      "97698"
+   ],
+   [
+      "243",
+      "Stasiun Meteorologi Dumatubun Tual",
+      -5.6637,
+      132.7362,
+      "meteo",
+      "97810"
+   ],
+   [
+      "244",
+      "Stasiun Meteorologi El Tari Kupang",
+      -10.1678,
+      123.67039,
+      "meteo",
+      "97372"
+   ],
+   [
+      "245",
+      "Stasiun Meteorologi Emalamo",
+      -2.05,
+      126,
+      "meteo",
+      "97600"
+   ],
+   [
+      "246",
+      "Stasiun Meteorologi Enarotali",
+      -3.92688,
+      136.38,
+      "meteo",
+      "97780"
+   ],
+   [
+      "247",
+      "Stasiun Meteorologi F.L Tobing - Tapanuli Tengah",
+      1.55,
+      98.88,
+      "meteo",
+      "96073"
+   ],
+   [
+      "248",
+      "Stasiun Meteorologi Fatmawati Soekarno",
+      -3.8590744,
+      102.3369679,
+      "meteo",
+      "96253"
+   ],
+   [
+      "249",
+      "Stasiun Meteorologi Frans Kaisiepo",
+      -1.19069,
+      136.10361,
+      "meteo",
+      "97560"
+   ],
+   [
+      "250",
+      "Stasiun Meteorologi Frans Sales Lega Manggarai",
+      -8.63,
+      120.45,
+      "meteo",
+      "97284"
+   ],
+   [
+      "252",
+      "Stasiun Meteorologi Gamar Malamo",
+      1.49,
+      127.5,
+      "meteo",
+      "97406"
+   ],
+   [
+      "253",
+      "Stasiun Meteorologi Geser",
+      -3.8813,
+      130.88,
+      "meteo",
+      "97748"
+   ],
+   [
+      "254",
+      "Stasiun Meteorologi Klas III Gewayantana Flores Timur",
+      -8.2752,
+      122.9986,
+      "meteo",
+      "97310"
+   ],
+   [
+      "255",
+      "Stasiun Meteorologi Gusti Syamsir Alam",
+      -3.3,
+      116.17,
+      "meteo",
+      "96695"
+   ],
+   [
+      "256",
+      "Stasiun Meteorologi H. Asan Kotawaringin Timur",
+      -2.05,
+      112.9,
+      "meteo",
+      "96651"
+   ],
+   [
+      "257",
+      "Stasiun Meteorologi H. Asan Hananjoedin",
+      -2.75,
+      107.75,
+      "meteo",
+      "96249"
+   ],
+   [
+      "258",
+      "Stasiun Meteorologi Hang Nadim Batam",
+      1.11667,
+      104.11667,
+      "meteo",
+      "96087"
+   ],
+   [
+      "259",
+      "Stasiun Meteorologi Kelas I Sultan Hasanuddin",
+      -5.07005,
+      119.5496342,
+      "meteo",
+      "97180"
+   ],
+   [
+      "260",
+      "Stasiun Meteorologi Iskandar",
+      -2.73,
+      111.66,
+      "meteo",
+      "96645"
+   ],
+   [
+      "261",
+      "Stasiun Meteorologi Japura",
+      -0.33,
+      102.32,
+      "meteo",
+      "96171"
+   ],
+   [
+      "262",
+      "Stasiun Meteorologi Jatiwangi",
+      -6.75,
+      108.27,
+      "meteo",
+      "96791"
+   ],
+   [
+      "263",
+      "Stasiun Meteorologi Kelas I Juanda Surabaya",
+      -7.3846,
+      112.7833,
+      "meteo",
+      "96935"
+   ],
+   [
+      "264",
+      "Stasiun Meteorologi Juwata",
+      3.33,
+      117.57,
+      "meteo",
+      "96509"
+   ],
+   [
+      "265",
+      "Stasiun Meteorologi Kalianget - Sumenep",
+      -7.0413,
+      113.91578,
+      "meteo",
+      "96973"
+   ],
+   [
+      "266",
+      "Stasiun Meteorologi Kalimarau ",
+      2.14562,
+      117.43375,
+      "meteo",
+      "96529"
+   ],
+   [
+      "267",
+      "Stasiun Meteorologi Kasiguncu",
+      -1.42038,
+      120.65701,
+      "meteo",
+      "97096"
+   ],
+   [
+      "268",
+      "Stasiun Meteorologi Kemayoran",
+      -6.1560008,
+      106.839514,
+      "meteo",
+      "96745"
+   ],
+   [
+      "269",
+      "Stasiun Meteorologi Kijang",
+      0.91816,
+      104.53,
+      "meteo",
+      "96091"
+   ],
+   [
+      "270",
+      "Stasiun Meteorologi Komodo",
+      -8.48673,
+      119.88683,
+      "meteo",
+      "97282"
+   ],
+   [
+      "271",
+      "Stasiun Meteorologi Kualanamu",
+      3.56352,
+      98.67437,
+      "meteo",
+      "96035"
+   ],
+   [
+      "272",
+      "Stasiun Meteorologi Majene",
+      -3.55074,
+      118.98054,
+      "meteo",
+      "97120"
+   ],
+   [
+      "273",
+      "Stasiun Meteorologi Mali - Alor",
+      -8.13471,
+      124.59,
+      "meteo",
+      "97320"
+   ],
+   [
+      "274",
+      "Stasiun Meteorologi Kelas III Malikussaleh",
+      5.22869,
+      96.94749,
+      "meteo",
+      "96009"
+   ],
+   [
+      "275",
+      "Stasiun Meteorologi Mararena",
+      -1.85,
+      138.75,
+      "meteo",
+      "97580"
+   ],
+   [
+      "276",
+      "Stasiun Meteorologi Maritim Belawan",
+      3.78824,
+      98.71492,
+      "meteo",
+      "96033"
+   ],
+   [
+      "277",
+      "Stasiun Meteorologi Maritim Bitung",
+      1.4431,
+      125.1797,
+      "meteo",
+      "97016"
+   ],
+   [
+      "278",
+      "Stasiun Meteorologi Maritim Kendari",
+      -3.9701,
+      122.5895,
+      "meteo",
+      "97144"
+   ],
+   [
+      "279",
+      "Stasiun Meteorologi Maritim Lampung",
+      -5.4721,
+      105.321,
+      "meteo",
+      "96293"
+   ],
+   [
+      "280",
+      "Stasiun Meteorologi Maritim Paotere",
+      -5.11375,
+      119.41983,
+      "meteo",
+      "97182"
+   ],
+   [
+      "281",
+      "Stasiun Meteorologi Maritim Perak II",
+      -7.2053,
+      112.7353,
+      "meteo",
+      "96937"
+   ],
+   [
+      "282",
+      "Stasiun Meteorologi Maritim Pontianak",
+      -0.020469,
+      109.337774,
+      "meteo",
+      "96585"
+   ],
+   [
+      "283",
+      "Stasiun Meteorologi Maritim Tanjung Mas",
+      -6.9486,
+      110.4199,
+      "meteo",
+      "96837"
+   ],
+   [
+      "284",
+      "Stasiun Meteorologi Maritim Tanjung Priok",
+      -6.10781,
+      106.88053,
+      "meteo",
+      "96741"
+   ],
+   [
+      "285",
+      "Stasiun Meteorologi Mathilda Batlayeri",
+      -7.98,
+      131.3,
+      "meteo",
+      "97900"
+   ],
+   [
+      "286",
+      "Stasiun Meteorologi Minangkabau",
+      -0.79355,
+      100.28917,
+      "meteo",
+      "96163"
+   ],
+   [
+      "287",
+      "Stasiun Meteorologi Moanamani",
+      -3.3521,
+      135.52,
+      "meteo",
+      "97682"
+   ],
+   [
+      "288",
+      "Stasiun Meteorologi Mopah Merauke",
+      -8.52019,
+      140.41568,
+      "meteo",
+      "97980"
+   ],
+   [
+      "289",
+      "Stasiun Meteorologi Mozez Kilangin",
+      -4.53006,
+      136.89348,
+      "meteo",
+      "97796"
+   ],
+   [
+      "290",
+      "Stasiun Meteorologi Mutiara Sis-Al Jufri",
+      -0.9177243,
+      119.9009011,
+      "meteo",
+      "97072"
+   ],
+   [
+      "291",
+      "Stasiun Meteorologi Naha",
+      3.68594,
+      125.52881,
+      "meteo",
+      "97008"
+   ],
+   [
+      "292",
+      "Stasiun Meteorologi Namlea",
+      -3.25,
+      127.08,
+      "meteo",
+      "97700"
+   ],
+   [
+      "293",
+      "Stasiun Meteorologi Nangapinoh",
+      -0.42,
+      111.47,
+      "meteo",
+      "96557"
+   ],
+   [
+      "294",
+      "Stasiun Meteorologi Ngurah Rai ",
+      -8.75,
+      115.17,
+      "meteo",
+      "97230"
+   ],
+   [
+      "295",
+      "Stasiun Meteorologi Nunukan",
+      4.13,
+      117.67,
+      "meteo",
+      "96503"
+   ],
+   [
+      "296",
+      "Stasiun Meteorologi Oesman Sadik Halmahera Selatan",
+      -0.63784,
+      127.5,
+      "meteo",
+      "97460"
+   ],
+   [
+      "297",
+      "Stasiun Meteorologi Paloh - Sambas",
+      1.7373569,
+      109.3199425,
+      "meteo",
+      "96535"
+   ],
+   [
+      "298",
+      "Stasiun Meteorologi Pangsuma",
+      0.84,
+      112.93,
+      "meteo",
+      "96565"
+   ],
+   [
+      "299",
+      "Stasiun Meteorologi Pattimura",
+      -3.7114,
+      128.0957,
+      "meteo",
+      "97724"
+   ],
+   [
+      "300",
+      "Stasiun Meteorologi Perak I",
+      -7.2236,
+      112.7239,
+      "meteo",
+      "96933"
+   ],
+   [
+      "301",
+      "Stasiun Meteorologi Pongtiku",
+      -3.04524,
+      119.81885,
+      "meteo",
+      "97124"
+   ],
+   [
+      "302",
+      "Stasiun Meteorologi Radin Inten II",
+      -5.160000,
+      105.110000,
+      "meteo",
+      "96295"
+   ],
+   [
+      "303",
+      "Stasiun Meteorologi Rahadi Oesman",
+      -1.8,
+      109.97,
+      "meteo",
+      "96615"
+   ],
+   [
+      "304",
+      "Stasiun Meteorologi Raja Haji Abdullah Tanjung Balai Karimun",
+      1.03,
+      103.38,
+      "meteo",
+      "96089"
+   ],
+   [
+      "305",
+      "Stasiun Meteorologi Ranai",
+      3.91206,
+      108.39,
+      "meteo",
+      "96147"
+   ],
+   [
+      "306",
+      "Stasiun Meteorologi Rendani Manokwari",
+      -0.89227,
+      134.05041,
+      "meteo",
+      "97530"
+   ],
+   [
+      "307",
+      "Stasiun Meteorologi Sam Ratulangi",
+      1.54575,
+      124.9234,
+      "meteo",
+      "97014"
+   ],
+   [
+      "308",
+      "Stasiun Meteorologi Sanggu - Barito Selatan",
+      -1.67,
+      114.9,
+      "meteo",
+      "96653"
+   ],
+   [
+      "309",
+      "Stasiun Meteorologi Sangia Ni Bandera",
+      -4.18059,
+      121.61077,
+      "meteo",
+      "97142"
+   ],
+   [
+      "310",
+      "Stasiun Meteorologi Sangkapura Gresik",
+      -5.85,
+      112.63,
+      "meteo",
+      "96925"
+   ],
+   [
+      "311",
+      "Stasiun Meteorologi Seigun",
+      -0.89118,
+      131.28575,
+      "meteo",
+      "97502"
+   ],
+   [
+      "312",
+      "Stasiun Meteorologi Sentani",
+      -2.57,
+      140.48,
+      "meteo",
+      "97690"
+   ],
+   [
+      "313",
+      "Stasiun Meteorologi Serang",
+      -6.11185,
+      106.11,
+      "meteo",
+      "96737"
+   ],
+   [
+      "314",
+      "Stasiun Meteorologi Soekarno Hatta",
+      -6.12,
+      106.65,
+      "meteo",
+      "96749"
+   ],
+   [
+      "315",
+      "Stasiun Meteorologi Sudjarwo Tjondro Negoro",
+      -1.8754,
+      136.23994,
+      "meteo",
+      "97570"
+   ],
+   [
+      "316",
+      "Stasiun Meteorologi Sultan Aji Muhammad Sulaiman Sepinggan",
+      -1.2597261,
+      116.8956343,
+      "meteo",
+      "96633"
+   ],
+   [
+      "317",
+      "Stasiun Meteorologi Sultan Baabullah",
+      0.8291399,
+      127.3791294,
+      "meteo",
+      "97430"
+   ],
+   [
+      "318",
+      "Stasiun Meteorologi Sultan Bantilan",
+      1.12114,
+      120.79433,
+      "meteo",
+      "97028"
+   ],
+   [
+      "319",
+      "Stasiun Meteorologi Sultan Iskandar Muda",
+      5.5156781,
+      95.4162514,
+      "meteo",
+      "96011"
+   ],
+   [
+      "320",
+      "Stasiun Meteorologi Sultan Mahmud Badaruddin II",
+      -2.89468,
+      104.70129,
+      "meteo",
+      "96221"
+   ],
+   [
+      "321",
+      "Stasiun Meteorologi Sultan Muhammad Kaharudin",
+      -8.48845,
+      117.41336,
+      "meteo",
+      "97260"
+   ],
+   [
+      "322",
+      "Stasiun Meteorologi Sultan Muhammad Salahudin Bima",
+      -8.542245,
+      118.6902479,
+      "meteo",
+      "97270"
+   ],
+   [
+      "323",
+      "Stasiun Meteorologi Sultan Syarif Kasim II",
+      0.45924,
+      101.44743,
+      "meteo",
+      "96109"
+   ],
+   [
+      "324",
+      "Stasiun Meteorologi Klas I Sultan Thaha Jambi",
+      -1.6349886,
+      103.6433337,
+      "meteo",
+      "96195"
+   ],
+   [
+      "325",
+      "Stasiun Meteorologi Supadio",
+      -0.14206,
+      109.45,
+      "meteo",
+      "96581"
+   ],
+   [
+      "326",
+      "Stasiun Meteorologi Susilo",
+      -0.0027771,
+      109.2840072,
+      "meteo",
+      "96559"
+   ],
+   [
+      "327",
+      "Stasiun Meteorologi Syamsudin Noor",
+      -3.439,
+      114.761,
+      "meteo",
+      "96685"
+   ],
+   [
+      "328",
+      "Stasiun Meteorologi Syukuran Aminudin Amir",
+      -1.04064,
+      122.771,
+      "meteo",
+      "97086"
+   ],
+   [
+      "329",
+      "Stasiun Meteorologi Tanah Merah",
+      -6.1,
+      140.31,
+      "meteo",
+      "97876"
+   ],
+   [
+      "330",
+      "Stasiun Meteorologi Tanjung Harapan",
+      2.8333,
+      117.3666,
+      "meteo",
+      "96525"
+   ],
+   [
+      "331",
+      "Stasiun Meteorologi Tardamu",
+      -10.5,
+      121.83,
+      "meteo",
+      "97380"
+   ],
+   [
+      "332",
+      "Stasiun Meteorologi Tarempa",
+      3.2,
+      106.25,
+      "meteo",
+      "96145"
+   ],
+   [
+      "333",
+      "Stasiun Meteorologi Tegal",
+      -6.86817,
+      109.12103,
+      "meteo",
+      "96797"
+   ],
+   [
+      "334",
+      "Stasiun Meteorologi Temindung",
+      -0.48,
+      117.16,
+      "meteo",
+      "96607"
+   ],
+   [
+      "335",
+      "Stasiun Meteorologi Tjilik Palangka Raya",
+      -2.22,
+      113.95,
+      "meteo",
+      "96655"
+   ],
+   [
+      "336",
+      "Stasiun Meteorologi Tjut Nyak Dien Meulaboh Nagan Raya",
+      4.04928,
+      96.24796,
+      "meteo",
+      "96015"
+   ],
+   [
+      "337",
+      "Stasiun Meteorologi Torea",
+      -2.91938,
+      132.26496,
+      "meteo",
+      "97630"
+   ],
+   [
+      "338",
+      "Stasiun Meteorologi Umbu Mehang Kunda Sumba Timur",
+      -9.66944,
+      120.29972,
+      "meteo",
+      "97340"
+   ],
+   [
+      "339",
+      "Stasiun Meteorologi Utarom",
+      -3.67,
+      133.75,
+      "meteo",
+      "97760"
+   ],
+   [
+      "340",
+      "Stasiun Meteorologi Wamena Jaya Wijaya",
+      -4.04,
+      138.57,
+      "meteo",
+      "97686"
+   ],
+   [
+      "341",
+      "Stasiun Meteorologi Yuvai Semaring",
+      3.86,
+      115.68,
+      "meteo",
+      "96505"
+   ],
+   [
+      "342",
+      "Stasiun Metorologi Maritim Teluk Bayur",
+      -0.99639,
+      100.37222,
+      "meteo",
+      "96161"
+   ],
+   [
+      "429",
+      "Stasiun Meteorologi Fransiskus Xaverius Seda",
+      -8.6356794,
+      122.2352566,
+      "meteo",
+      "97300"
+   ],
+   [
+      "430",
+      "Stasiun Meteorologi Hang Nadim Batam",
+      1.11667,
+      104.11667,
+      "meteo",
+      "96087"
+   ],
+   [
+      "431",
+      "Stasiun Meteorologi Tuban",
+      -6.82290,
+      111.99177,
+      "meteo",
+      "96939"
+   ],
+   [
+      "468",
+      "Stasiun Meteorologi Silangit",
+      2.2726906,
+      98.9719157,
+      "meteo",
+      "96043"
+   ],
+   [
+      "194",
+      "Stasiun Geofisika Balikpapan",
+      -1.2553,
+      116.91463,
+      "geof",
+      "96635"
+   ],
+   [
+      "195",
+      "Stasiun Geofisika Bandung",
+      -6.88356,
+      107.59733,
+      "geof",
+      "96783"
+   ],
+   [
+      "196",
+      "Stasiun Geofisika Banjarnegara",
+      -7.318,
+      109.71,
+      "geof",
+      "96807"
+   ],
+   [
+      "197",
+      "Stasiun Geofisika Gowa",
+      -5.218,
+      119.47,
+      "geof",
+      "97186"
+   ],
+   [
+      "198",
+      "Stasiun Geofisika Gunung Sitoli",
+      1.3,
+      97.58,
+      "geof",
+      "96077"
+   ],
+   [
+      "199",
+      "Stasiun Geofisika Jakarta",
+      -6.15568,
+      106.84,
+      "geof",
+      "96743"
+   ],
+   [
+      "200",
+      "Stasiun Geofisika Kampung Baru",
+      -10.16453,
+      123.58933,
+      "geof",
+      "97376"
+   ],
+   [
+      "201",
+      "Stasiun Geofisika Karang Kates",
+      -8.15,
+      112.45,
+      "geof",
+      "96949"
+   ],
+   [
+      "202",
+      "Stasiun Geofisika Karang Panjang",
+      -3.69,
+      128.19,
+      "geof",
+      "97728"
+   ],
+   [
+      "203",
+      "Stasiun Geofisika Kendari",
+      -3.96,
+      122.62,
+      "geof",
+      "97146"
+   ],
+   [
+      "204",
+      "Stasiun Geofisika Kepahiyang",
+      -3.55,
+      102.589,
+      "geof",
+      "96257"
+   ],
+   [
+      "205",
+      "Stasiun Geofisika Kota Bumi",
+      -4.83631,
+      104.87,
+      "geof",
+      "96297"
+   ],
+   [
+      "206",
+      "Stasiun Geofisika Mata'ie",
+      5.496,
+      95.296,
+      "geof",
+      "96013"
+   ],
+   [
+      "207",
+      "Stasiun Geofisika Mataram",
+      -8.36,
+      115.61,
+      "geof",
+      "97234"
+   ],
+   [
+      "208",
+      "Stasiun Geofisika Palu",
+      -0.90536,
+      119.8367,
+      "geof",
+      "97074"
+   ],
+   [
+      "209",
+      "Stasiun Geofisika Parapat",
+      2.69382,
+      98.92368,
+      "geof",
+      "96039"
+   ],
+   [
+      "210",
+      "Stasiun Geofisika Sanglah",
+      -8.67689,
+      115.21,
+      "geof",
+      "97232"
+   ],
+   [
+      "211",
+      "Stasiun Geofisika Saumlaki",
+      -7.98,
+      131.3,
+      "geof",
+      "97902"
+   ],
+   [
+      "212",
+      "Stasiun Geofisika Sawahan",
+      -7.73486,
+      111.76682,
+      "geof",
+      "96975"
+   ],
+   [
+      "213",
+      "Stasiun Geofisika Silaing Bawah",
+      -0.4663,
+      100.3797,
+      "geof",
+      "96165"
+   ],
+   [
+      "214",
+      "Stasiun Geofisika Sorong",
+      -0.86,
+      131.26,
+      "geof",
+      "97504"
+   ],
+   [
+      "215",
+      "Stasiun Geofisika Tangerang",
+      -6.176,
+      106.6468,
+      "geof",
+      "96735"
+   ],
+   [
+      "216",
+      "Stasiun Geofisika Tanjung Pandan",
+      -2.7575,
+      107.65,
+      "geof",
+      "96247"
+   ],
+   [
+      "217",
+      "Stasiun Geofisika Ternate",
+      0.7719,
+      127.3667,
+      "geof",
+      "97432"
+   ],
+   [
+      "218",
+      "Stasiun Geofisika Tretes",
+      -7.70456,
+      112.63533,
+      "geof",
+      "96945"
+   ],
+   [
+      "219",
+      "Stasiun Geofisika Tual",
+      -5.64,
+      132.75,
+      "geof",
+      "97812"
+   ],
+   [
+      "220",
+      "Stasiun Geofisika Tuntungan",
+      3.501,
+      98.56,
+      "geof",
+      "96037"
+   ],
+   [
+      "221",
+      "Stasiun Geofisika Waingapu",
+      -9.66917,
+      120.29776,
+      "geof",
+      "97342"
+   ],
+   [
+      "222",
+      "Stasiun Geofisika Winangun",
+      1.4434,
+      124.8389,
+      "geof",
+      "97010"
+   ],
+   [
+      "223",
+      "Stasiun Geofisika Yogyakarta",
+      -7.8166,
+      110.2949,
+      "geof",
+      "96855"
+   ],
+   [
+      "174",
+      "Stasiun Klimatologi Banjarbaru",
+      -3.46225,
+      114.84,
+      "klimat",
+      "96687"
+   ],
+   [
+      "175",
+      "Stasiun Klimatologi Bengkulu",
+      -3.8652,
+      102.3119,
+      "klimat",
+      "96255"
+   ],
+   [
+      "176",
+      "Stasiun Klimatologi Bogor",
+      -6.5538578,
+      106.7418549,
+      "klimat",
+      "96753"
+   ],
+   [
+      "177",
+      "Stasiun Klimatologi Deli Serdang",
+      3.62114,
+      98.71485,
+      "klimat",
+      "96031"
+   ],
+   [
+      "178",
+      "Stasiun Klimatologi Genyem",
+      -2.59231,
+      140.16792,
+      "klimat",
+      "97692"
+   ],
+   [
+      "179",
+      "Stasiun Klimatologi Jembrana",
+      -8.341,
+      114.6176,
+      "klimat",
+      "97236"
+   ],
+   [
+      "180",
+      "Stasiun Klimatologi Seram Bagian Barat",
+      -3.25,
+      128.4,
+      "klimat",
+      "97726"
+   ],
+   [
+      "181",
+      "Stasiun Klimatologi Minahasa Utara",
+      1.54585,
+      124.9233,
+      "klimat",
+      "97012"
+   ],
+   [
+      "182",
+      "Stasiun Klimatologi Kelas II Kupang",
+      -10.1383665,
+      123.6643724,
+      "klimat",
+      "97374"
+   ],
+   [
+      "183",
+      "Stasiun Klimatologi Lombok Barat",
+      -8.63627,
+      116.17094,
+      "klimat",
+      "97242"
+   ],
+   [
+      "184",
+      "Stasiun Klimatologi Malang",
+      -7.9008,
+      112.5979,
+      "klimat",
+      "96943"
+   ],
+   [
+      "185",
+      "Stasiun Klimatologi Manokwari Selatan",
+      -1.47,
+      134.19,
+      "klimat",
+      "97694"
+   ],
+   [
+      "186",
+      "Stasiun Klimatologi Kelas I  Maros",
+      -4.9976,
+      119.5721,
+      "klimat",
+      "97184"
+   ],
+   [
+      "187",
+      "Stasiun Klimatologi Mempawah",
+      0.075,
+      109.19,
+      "klimat",
+      "96583"
+   ],
+   [
+      "188",
+      "Stasiun Klimatologi Muaro Jambi",
+      -1.6008282,
+      103.4921565,
+      "klimat",
+      "96191"
+   ],
+   [
+      "189",
+      "Stasiun Klimatologi Padang Pariaman",
+      -0.54549,
+      100.29786,
+      "klimat",
+      "96167"
+   ],
+   [
+      "190",
+      "Stasiun Klimatologi Palembang",
+      -2.92732,
+      104.77197,
+      "klimat",
+      "96223"
+   ],
+   [
+      "191",
+      "Stasiun Klimatologi Pesawaran",
+      -5.17236,
+      105.18,
+      "klimat",
+      "96291"
+   ],
+   [
+      "192",
+      "Stasiun Klimatologi Semarang",
+      -6.9847,
+      110.3812,
+      "klimat",
+      "96835"
+   ],
+   [
+      "193",
+      "Stasiun Klimatologi Tangerang Selatan",
+      -6.26151,
+      106.75084,
+      "klimat",
+      "96733"
+   ],
+   [
+      "424",
+      "Stasiun GAW Bukit Kototabang",
+      -0.793222,
+      100.2886,
+      "gaw",
+      "96169"
+   ],
+   [
+      "426",
+      "Stasiun GAW Lore Lindu Bariri - Poso",
+      -1.65,
+      120.1808113,
+      "gaw",
+      "97600"
+   ],
+   [
+      "462",
+      "Stasiun GAW Puncak Vihara Klademak - Sorong",
+      -0.8797172,
+      131.295633,
+      "gaw",
+      ""
+   ],
+   [
+      "461",
+      "Balai Besar Meteorologi, Klimatologi, dan Geofisika Wilayah I",
+      3.5395674,
+      98.6345453,
+      "balai",
+      "96041"
+   ],
+   [
+      "461",
+      "Balai Besar Meteorologi, Klimatologi, dan Geofisika Wilayah II",
+      -6.29,
+      106.75,
+      "balai",
+      "96041"
+   ],
+   [
+      "464",
+      "Balai Besar Meteorologi, Klimatologi, dan Geofisika Wilayah III",
+      -8.73810,
+      115.17860,
+      "balai",
+      "96003"
+   ],
+   [
+      "461",
+      "Balai Besar Meteorologi, Klimatologi, dan Geofisika Wilayah IV",
+      -5.148888889,
+      119.455,
+      "balai",
+      "96041"
+   ],
+   [
+      "461",
+      "Balai Besar Meteorologi, Klimatologi, dan Geofisika Wilayah V",
+      -2.566944444,
+      140.6827778,
+      "balai",
+      "96041"
+   ]
+]

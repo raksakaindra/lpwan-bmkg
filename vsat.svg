@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="138px" viewBox="0 0 109 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>01_vsat</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_vsat" transform="translate(-3.000000, -11.000000)">
+            <path d="M110.8,86.8 C96.7,106.5 62.6,106.1 34.7,86.1 C6.8,66.1 -4.4,33.8 9.7,14.1" id="Path" fill="#EC453F"></path>
+            <path d="M50,148.7 L25.8,148.7 L24.1,147 L24.1,99.4 L25.8,97.7 L50,97.7 L51.7,99.4 L51.7,147 L50,148.7 Z M27.5,145.3 L48.3,145.3 L48.3,101 L27.5,101 L27.5,145.3 Z" id="Shape" fill="#15A8E0" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#15A8E0" points="48.7 124.6 24.6 100.5 24.3 100 15 78.5 17.7 76.7 39.1 98.2 36.7 100.5 21.6 85.3 27.2 98.4 51.1 122.3"></polygon>
+            <polygon id="Path" fill="#15A8E0" transform="translate(37.830281, 111.376394) rotate(-45.001000) translate(-37.830281, -111.376394) " points="20.7802805 109.726394 54.8802805 109.726394 54.8802805 113.026394 20.7802805 113.026394"></polygon>
+            <polygon id="Path" fill="#15A8E0" transform="translate(37.830281, 135.476394) rotate(-45.001000) translate(-37.830281, -135.476394) " points="36.1802805 118.426394 39.4802805 118.426394 39.4802805 152.526394 36.1802805 152.526394"></polygon>
+            <polygon id="Path" fill="#15A8E0" transform="translate(37.830281, 135.476394) rotate(-45.001000) translate(-37.830281, -135.476394) " points="20.7802805 133.826394 54.8802805 133.826394 54.8802805 137.126394 20.7802805 137.126394"></polygon>
+            <polygon id="Path" fill="#15A8E0" points="25.8 121.8 49.9 121.8 49.9 125.1 25.8 125.1"></polygon>
+            <ellipse id="Oval" fill="#BE3636" transform="translate(60.403585, 50.250993) rotate(-54.289000) translate(-60.403585, -50.250993) " cx="60.4035853" cy="50.2509928" rx="16.8" ry="62.2"></ellipse>
+            <polygon id="Path" fill="#C3E8F7" transform="translate(64.904398, 41.775814) rotate(-48.279000) translate(-64.904398, -41.775814) " points="46.0043982 40.1258142 83.8043982 40.1258142 83.8043982 43.4258142 46.0043982 43.4258142"></polygon>
+            <polygon id="Path" fill="#C3E8F7" transform="translate(82.253718, 51.611370) rotate(-11.363000) translate(-82.253718, -51.611370) " points="80.6037178 27.2113696 83.9037178 27.2113696 83.9037178 76.0113696 80.6037178 76.0113696"></polygon>
+            <polygon id="Path" fill="#C3E8F7" transform="translate(54.053081, 29.548305) rotate(-4.507000) translate(-54.053081, -29.548305) " points="30.5030814 27.8983047 77.6030814 27.8983047 77.6030814 31.1983047 30.5030814 31.1983047"></polygon>
+            <path d="M79.4,29.6 C76.1,29.6 73.4,26.9 73.4,23.6 C73.4,20.3 76.1,17.6 79.4,17.6 C82.7,17.6 85.4,20.3 85.4,23.6 C85.4,26.9 82.7,29.6 79.4,29.6 Z M79.4,21 C77.9,21 76.8,22.2 76.8,23.6 C76.8,25 78,26.2 79.4,26.2 C80.8,26.2 82,25 82,23.6 C82,22.2 80.9,21 79.4,21 Z" id="Shape" fill="#C3E8F7" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
