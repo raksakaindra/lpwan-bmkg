@@ -1,2 +1,2 @@
-# lpwan-bmkg
-LPWAN BMKG
+# LPWAN BMKG
+Portal informasi jaringan LPWAN yang dikembangkan oleh Perekayasa BMKG
